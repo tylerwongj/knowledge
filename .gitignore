@@ -1,0 +1,29 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal/private files
+**/private/
+**/*private*
+**/*secret*
+**/*personal*
