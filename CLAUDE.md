@@ -121,10 +121,23 @@ This repository is specifically designed to leverage AI tools for:
 - Follow the global git commit guidelines with `[CC]` prefix for Claude Code generated commits
 - Focus commits on logical content groupings rather than individual files
 
+## Future Repository Structure
+
+**NOTE**: This repository is planned for migration to a submodule-based structure for better focus and topic-specific AI interactions. See `FUTURE-SUBMODULE-MIGRATION.md` for detailed migration plan.
+
+### Planned Submodule Organization:
+- **unity-knowledge**: Unity development, C#, game development math, tools
+- **ai-automation-knowledge**: AI/LLM automation, productivity tools, stealth automation
+- **career-skills-knowledge**: Soft skills, job search, professional development
+- **Future additions**: bible-knowledge, board-game-knowledge, etc.
+
+Each submodule will have its own focused CLAUDE.md and PLAN.md files for targeted AI interactions and domain-specific goals.
+
 ## Key Files Reference
 
 - `PLAN.md` - Original project vision and goals
 - `CHATGPT-PLAN.md` - Detailed strategic roadmap with specific learning domains
+- `FUTURE-SUBMODULE-MIGRATION.md` - Plan for migrating to topic-focused submodules
 - `01-Unity-Engine/@02-Project-Setup.md` - Unity project organization standards
 - `01-Unity-Engine/@a-Core-Concepts.md` - Fundamental Unity architecture and systems
 
@@ -135,5 +148,6 @@ Success is measured by:
 2. **Practical Application**: Content directly applicable to Unity job requirements
 3. **AI Integration**: Effective use of AI tools to accelerate learning and productivity
 4. **Career Advancement**: Content supporting actual job acquisition and performance improvement
+5. **Topic Focus**: Migration to submodule structure enabling laser-focused AI interactions per domain
 
-This repository serves as both a learning system and a productivity multiplier, designed to achieve career goals through systematic knowledge building and AI-enhanced efficiency.
+This repository serves as both a learning system and a productivity multiplier, designed to achieve career goals through systematic knowledge building and AI-enhanced efficiency. The planned submodule migration will enhance this by providing domain-specific AI guidance and cleaner separation of learning objectives.
