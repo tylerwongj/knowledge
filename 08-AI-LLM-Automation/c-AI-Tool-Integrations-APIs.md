@@ -1,4 +1,4 @@
-# @c-AI-Tool-Integrations-APIs - Technical Implementation Guide
+# c-AI-Tool-Integrations-APIs - Technical Implementation Guide
 
 ## 🎯 Learning Objectives
 - Master API integrations for major AI/LLM services

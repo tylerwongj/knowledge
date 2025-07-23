@@ -1,4 +1,4 @@
-# @a-Prompt-Engineering-Mastery - Advanced LLM Communication
+# a-Prompt-Engineering-Mastery - Advanced LLM Communication
 
 ## 🎯 Learning Objectives
 - Master prompt engineering techniques for maximum AI productivity

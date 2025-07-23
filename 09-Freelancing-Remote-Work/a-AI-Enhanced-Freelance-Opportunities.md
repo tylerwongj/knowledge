@@ -1,4 +1,4 @@
-# @a-AI-Enhanced-Freelance-Opportunities - Finding 10x Freelance Work
+# a-AI-Enhanced-Freelance-Opportunities - Finding 10x Freelance Work
 
 ## 🎯 Learning Objectives
 - Identify freelance opportunities where AI gives maximum competitive advantage

@@ -1,4 +1,4 @@
-# @b-LLM-Workflow-Automation - Systematic AI Integration
+# b-LLM-Workflow-Automation - Systematic AI Integration
 
 ## 🎯 Learning Objectives
 - Design automated workflows using multiple AI tools

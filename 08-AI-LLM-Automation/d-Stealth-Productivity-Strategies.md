@@ -1,4 +1,4 @@
-# @d-Stealth-Productivity-Strategies - Silent 10x Performance
+# d-Stealth-Productivity-Strategies - Silent 10x Performance
 
 ## 🎯 Learning Objectives
 - Master techniques for AI-enhanced productivity without revealing AI use

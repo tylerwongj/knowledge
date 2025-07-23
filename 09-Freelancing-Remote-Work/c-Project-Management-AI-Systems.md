@@ -1,4 +1,4 @@
-# @c-Project-Management-AI-Systems - Intelligent Project Orchestration
+# c-Project-Management-AI-Systems - Intelligent Project Orchestration
 
 ## 🎯 Learning Objectives
 - Implement AI-powered project planning and execution systems

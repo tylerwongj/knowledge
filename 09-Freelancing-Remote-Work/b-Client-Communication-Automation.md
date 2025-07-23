@@ -1,4 +1,4 @@
-# @b-Client-Communication-Automation - Professional Relationship Excellence
+# b-Client-Communication-Automation - Professional Relationship Excellence
 
 ## 🎯 Learning Objectives
 - Automate client communication while maintaining personal touch
