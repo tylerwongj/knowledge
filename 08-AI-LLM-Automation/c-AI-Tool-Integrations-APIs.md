@@ -1,6 +1,6 @@
 # c-AI-Tool-Integrations-APIs - Technical Implementation Guide
 
-## 🎯 Learning Objectives
+	## 🎯 Learning Objectives
 - Master API integrations for major AI/LLM services
 - Build custom AI tool chains and automation scripts
 - Understand rate limiting, cost optimization, and error handling

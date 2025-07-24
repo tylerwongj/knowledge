@@ -10,19 +10,19 @@
 
 ## 🔧 MonoBehaviour Lifecycle
 
-### Core Event Functions (Execution Order)
+### Core Event ==Functions== (Execution Order)
 ```csharp
-public class PlayerController : MonoBehaviour
+public class ==PlayerController== : ==MonoBehaviour==
 {
-    void Awake()    { /* Called when object is instantiated */ }
-    void OnEnable() { /* Called when GameObject becomes active */ }
-    void Start()    { /* Called before first frame, after all Awakes */ }
+    ==================void================== ==================================================================Awake==================================================================()    { /* Called when object is instantiated */ }
+    void ======OnEnable======() { /* Called when GameObject becomes active */ }
+    void ==Start==()    { /* Called before first frame, after all Awakes */ }
     
     void Update()      { /* Called every frame (frame-dependent) */ }
     void FixedUpdate() { /* Called at fixed intervals (physics) */ }
     void LateUpdate()  { /* Called after all Updates (camera follow) */ }
     
-    void OnDisable() { /* Called when GameObject becomes inactive */ }
+    void ====OnDisable====() { /* Called when GameObject becomes inactive */ }
     void OnDestroy() { /* Called when object is destroyed */ }
 }
 ```
@@ -205,7 +205,7 @@ yield return StartCoroutine(OtherCoroutine()); // Wait for another coroutine
 ```csharp
 public class GameManager : MonoBehaviour
 {
-    public static GameManager Instance;
+    public static GameManager Instance; 
     
     void Awake()
     {

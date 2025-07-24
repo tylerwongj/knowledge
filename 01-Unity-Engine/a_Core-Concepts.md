@@ -144,7 +144,7 @@ Build a tool that uses prefabs to create levels:
 ### Common Questions
 1. **"Explain the difference between Update and FixedUpdate"**
    - Update: Frame-dependent, varies with FPS
-   - FixedUpdate: Time-dependent, consistent for physics
+   - ==FixedUpdate==: Time-dependent, consistent for ==physics==
 
 2. **"How do you optimize GameObject instantiation?"**
    - Object pooling instead of constant Instantiate/Destroy

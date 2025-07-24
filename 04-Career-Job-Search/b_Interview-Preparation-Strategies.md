@@ -8,8 +8,8 @@ Master technical interviews, behavioral questions, and coding challenges specifi
 ### Technical Interview Types
 
 **Live Coding Interviews:**
-- **Algorithm Problems:** Data structures, sorting, searching, graph traversal
-- **System Design:** Architecture discussions for scalable applications  
+- **==Algorithm== Problems:** Data structures, sorting, searching, graph traversal
+- **==System Design==:** Architecture discussions for scalable applications  
 - **Code Review:** Analyze and improve existing code samples
 - **Debugging Challenges:** Identify and fix bugs in provided code
 

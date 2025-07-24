@@ -1,5 +1,7 @@
 # Communication & Technical Writing
 
+When critiquing others work, we want to always be ==forward thinking==
+
 ## Overview
 Master professional communication skills essential for software development teams, including technical documentation, code reviews, and stakeholder interaction.
 
@@ -20,10 +22,10 @@ Master professional communication skills essential for software development team
 
 ### Code Review Communication
 
-**Effective Review Comments:**
+**Effective Review Comments:** - ==forward thinking==
 ```
 ❌ "This is wrong"
-✅ "Consider using Array.Find() here for better readability and performance"
+✅ "Consider using Array.==Find==() here for better readability and performance"
 
 ❌ "Bad naming"
 ✅ "Could we use a more descriptive name like 'playerHealthController' instead of 'phc'?"
@@ -34,7 +36,7 @@ Master professional communication skills essential for software development team
 
 **Collaborative Review Process:**
 - Focus on code improvement, not personal criticism
-- Explain reasoning behind suggestions
+- ==Explain reasoning== behind suggestions
 - Acknowledge good code and creative solutions
 - Ask questions to understand design decisions
 
@@ -79,39 +81,39 @@ Master professional communication skills essential for software development team
 ```markdown
 # Feature Proposal: Player Save System
 
-## Problem Statement
+## ==Problem== Statement
 Players lose progress when game crashes or device runs out of battery.
 
-## Proposed Solution
+## Proposed ==Solution==
 Implement auto-save system with local storage and cloud backup.
 
-## Technical Approach
+## Technical ==Approach==
 - Save game state every 30 seconds during gameplay
 - Use JSON serialization for save data
 - Implement cloud sync with conflict resolution
 
-## Timeline
+## ==Timeline==
 - Week 1: Local save system implementation
 - Week 2: Cloud integration and testing
 - Week 3: Polish and edge case handling
 
-## Risks & Mitigation
+## ==Risks & Mitigation==
 - Risk: Save corruption → Mitigation: Multiple save slots
 - Risk: Cloud sync conflicts → Mitigation: Timestamp-based resolution
 ```
 
 ### Presentation Skills
 
-**Technical Presentations:**
-- Start with the big picture before diving into details
-- Use visual aids (diagrams, code snippets, demos)
-- Prepare for questions about edge cases and alternatives
+==**Technical Presentations:**==
+- Start with the ==big picture before diving into details==
+- Use ==visual aids== (diagrams, code snippets, demos)
+- Prepare for questions about ==edge cases and alternatives==
 - Practice explaining complex topics simply
 
 **Demo Best Practices:**
 - Test all demos thoroughly beforehand
-- Have backup plans for technical failures
-- Focus on user experience and business value
+- Have ==backup plans== for technical failures
+- Focus on ==user experience and business value==
 - Explain the technical implementation briefly
 
 ## Interview Preparation
@@ -119,21 +121,21 @@ Implement auto-save system with local storage and cloud backup.
 ### Communication Questions
 
 **"How do you explain technical concepts to non-technical stakeholders?"**
-- Use analogies and real-world examples
+- Use ==analogies== and ==real-world examples==
 - Focus on business impact and user benefits
 - Avoid technical jargon and acronyms
 - Use visual aids and diagrams when possible
 
 **"Describe a time you had to give difficult feedback in a code review"**
-- Focus on the code, not the person
+- Focus on the ==code==, not the person
 - Provide specific examples and suggestions
 - Explain the reasoning behind feedback
 - Offer to help implement improvements
 
 **"How do you handle disagreements about technical decisions?"**
-- Listen to different perspectives actively
+- ==Listen== to different perspectives actively
 - Present data and evidence to support positions
-- Focus on shared goals and project success
+- Focus on ==shared== ==goals== and project success
 - Be willing to compromise and iterate on solutions
 
 ### Key Takeaways

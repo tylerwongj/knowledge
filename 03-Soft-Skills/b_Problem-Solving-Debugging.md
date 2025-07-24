@@ -1,5 +1,12 @@
 # Problem-Solving & Debugging
 
+It comes down to ==Breaking down complex problems into manageable small problems== 
+- ==STAR method (when solving problems)
+	- Situation (Problem) 
+	- Task (High Level Task)
+	- Action (Smaller Tasks)
+	- Result
+
 ## Overview
 Develop systematic approaches to identifying, analyzing, and resolving technical problems in software development and game development scenarios.
 
@@ -210,29 +217,29 @@ public class DebugHelper : MonoBehaviour
 
 ### Problem-Solving Questions
 
-**"Walk me through how you debug a complex issue"**
-- Start with reproducing the problem consistently
-- Use systematic elimination to narrow down causes
-- Leverage debugging tools and logging effectively
-- Document findings and verify solutions
+**"Walk me through how you debug a ==complex== ==issue=="**
+- Start with ==reproducing== the problem consistently
+- Use systematic elimination to ==narrow== ==down== causes
+- Leverage debugging tools and ==logging== effectively
+- ==Document== findings and verify solutions
 
 **"Describe a challenging technical problem you solved"**
-- Use STAR method to structure the response
-- Emphasize systematic approach and critical thinking
-- Highlight collaboration and communication aspects
+- Use ==STAR== method to structure the response
+- Emphasize ==systematic== approach and critical thinking
+- Highlight ==collaboration== and ==communication== aspects
 - Discuss lessons learned and how you applied them
 
 **"How do you approach learning new technologies or codebases?"**
-- Start with high-level architecture and documentation
-- Build small test projects to understand key concepts
+- Start with ==high==-==level== architecture and documentation
+- Build ==small== test projects to understand key concepts
 - Read and trace through existing code examples
-- Ask targeted questions to experienced team members
+- Ask targeted ==questions== to experienced team members
 
 ### Key Takeaways
 
 **Systematic Problem-Solving:**
 - Use structured approaches like the scientific method
-- Break complex problems into manageable components
+- ==Break complex problems into manageable components==
 - Document problems and solutions for future reference
 - Practice root cause analysis, not just symptom fixing
 

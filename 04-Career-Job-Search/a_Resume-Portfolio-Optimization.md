@@ -1,5 +1,10 @@
 # Resume & Portfolio Optimization
 
+For Resume:
+- Create ==Demos==
+- ==Videos==
+- Source Code Examples
+
 ## Overview
 Create compelling resumes and portfolios that effectively showcase programming skills, Unity expertise, and professional experience to land software development and game development roles.
 
@@ -45,10 +50,10 @@ and cross-platform deployment. Passionate about clean code and player experience
 ### Portfolio Development
 
 **Game Development Portfolio:**
-- **Playable Demos:** WebGL builds or downloadable executables
-- **Source Code:** Clean, well-commented GitHub repositories
+- **==Playable Demos==:** WebGL builds or downloadable executables
+- **==Source Code==:** Clean, well-commented GitHub repositories
 - **Technical Documentation:** Architecture decisions and implementation details
-- **Video Demonstrations:** Gameplay footage and feature walkthroughs
+- **==Video Demonstrations==:** Gameplay footage and feature walkthroughs
 - **Development Process:** Blog posts or case studies showing problem-solving
 
 **Portfolio Projects Strategy:**
@@ -216,7 +221,7 @@ Resume Integration:
 
 ### Resume Discussion
 
-**Quantifying Achievements:**
+==**Quantifying Achievements:**==
 ```
 ❌ "Worked on mobile game development"
 ✅ "Developed 3 mobile games with 100K+ combined downloads"

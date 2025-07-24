@@ -1,11 +1,14 @@
 # Team Collaboration & Leadership
 
+
+When making tasks, try to ==prevent context switching==
+
 ## Overview
 Develop essential teamwork and leadership skills for software development environments, including Agile methodologies, mentorship, and project coordination.
 
 ## Key Concepts
 
-### Agile Development Practices
+### ==Agile== Development Practices
 
 **Scrum Framework:**
 - **Sprint Planning:** Define goals and select backlog items for upcoming sprint
@@ -14,7 +17,7 @@ Develop essential teamwork and leadership skills for software development enviro
 - **Retrospectives:** Reflect on process improvements and team dynamics
 
 **Kanban Workflow:**
-- **Work In Progress (WIP) Limits:** Prevent context switching and bottlenecks
+- **Work In Progress (WIP) Limits:** ==Prevent context switching== and bottlenecks
 - **Visual Task Management:** Track work status from backlog to completion
 - **Continuous Delivery:** Deploy features as soon as they're ready
 - **Flow Metrics:** Measure cycle time and throughput for improvement
@@ -40,7 +43,7 @@ Develop essential teamwork and leadership skills for software development enviro
 - **Active Listening:** Understand all perspectives before responding
 - **Focus on Issues:** Address problems, not personalities
 - **Seek Win-Win Solutions:** Find compromises that benefit the project
-- **Escalate When Necessary:** Know when to involve managers or leads
+- **==Escalate When Necessary==:** Know when to involve managers or leads
 
 ### Leadership Skills
 
@@ -48,7 +51,7 @@ Develop essential teamwork and leadership skills for software development enviro
 - **Architecture Decisions:** Guide technical direction and design choices
 - **Code Quality:** Establish standards and review practices
 - **Knowledge Sharing:** Mentor junior developers and facilitate learning
-- **Risk Management:** Identify technical risks and mitigation strategies
+- **==Risk== ==Management==:** Identify technical risks and mitigation strategies
 
 **Mentorship Approach:**
 ```csharp
@@ -171,7 +174,7 @@ It's more readable and less error-prone than the manual loop."
 
 **"How do you handle disagreements in technical decisions?"**
 - Listen to all perspectives and understand the underlying concerns
-- Evaluate options based on data, requirements, and long-term impact
+- Evaluate options based on data, requirements, and ==long-term impact==
 - Build consensus through discussion and compromise when possible
 - Make decisive choices when consensus isn't achievable
 
