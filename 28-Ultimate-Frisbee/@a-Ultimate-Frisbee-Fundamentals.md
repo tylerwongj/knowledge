@@ -1,5 +1,9 @@
 # @a-Ultimate Frisbee Fundamentals - Complete Skills and Strategy Guide
 
+
+- ==Common formations: 3-3-1, 2-3-2, trap zone==
+
+
 ## 🎯 Learning Objectives
 - Master fundamental throwing and catching techniques for competitive play
 - Develop strategic understanding of offensive and defensive systems
@@ -95,7 +99,7 @@ Prompt: "Develop a system for tracking individual Ultimate Frisbee performance m
 
 **Zone Defense:**
 - Area coverage rather than individual marking
-- Common formations: 3-3-1, 2-3-2, trap zone
+- ==Common formations: 3-3-1, 2-3-2, trap zone==
 - Movement patterns: Shifting and coverage
 - Weaknesses: Exploitation of gaps and movement
 
