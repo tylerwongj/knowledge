@@ -6,7 +6,7 @@
 - Apply Scripture-interprets-Scripture methodology
 - Build consistent devotional practices grounded in Reformed theology
 
-## 📖 Reformed Hermeneutical Foundation
+## 📖 Reformed ==Hermeneutical== Foundation
 
 ### Scripture Interprets Scripture Principle
 **John Calvin**: "Scripture is its own interpreter. Nothing can be expected beyond what the Scripture teaches."
@@ -39,7 +39,7 @@
 
 ## 🔍 Reformed Study Methods
 
-### 1. Expository Study Method (MacArthur's Approach)
+### 1. ==Expository== Study Method (MacArthur's Approach)
 
 #### Step 1: Observation - "What Does the Text Say?"
 **Detailed Text Analysis**:
@@ -73,12 +73,12 @@
 - **Sanctification**: How does this promote growth in holiness?
 - **Practical obedience**: Specific steps for applying truth
 
-### 2. Systematic Theological Study
+### 2. ==Systematic== ==Theological== Study
 **Building Doctrine from Scripture**
 
 **Method**:
-1. **Choose doctrinal topic** (justification, sanctification, etc.)
-2. **Gather all relevant passages** using concordance and cross-references
+1. ==**Choose doctrinal topic** (justification, sanctification, etc.)==
+2. ==**Gather all relevant passages** using concordance and cross-references==
 3. **Study each passage** in context using grammatical-historical method
 4. **Organize findings** into coherent theological statement
 5. **Compare with Reformed confessions** (Westminster, etc.)
@@ -89,10 +89,10 @@
 - **Confessional framework**: Historic Reformed creeds provide guidance
 - **Practical implications**: Doctrine must inform Christian living
 
-### 3. Redemptive-Historical Study
-**Seeing Christ Throughout Scripture**
+### ==3. Redemptive-Historical Study==
+==**Seeing Christ Throughout Scripture**==
 
-**John Piper**: "The Bible is one book. It is the story of God's glory in the salvation of sinners through the substitutionary sacrifice and triumphant resurrection of Jesus Christ."
+==**John Piper==**: "The Bible is one book. It is the story of God's glory in the salvation of sinners through the substitutionary sacrifice and triumphant resurrection of Jesus Christ."
 
 **Method**:
 1. **Identify the text's place** in redemptive history
@@ -109,38 +109,38 @@
 ### 4. Devotional Study Method (Puritan Approach)
 
 #### Morning Devotional Structure
-**Richard Baxter's Approach**:
-1. **Prayer for illumination**: Ask Holy Spirit for understanding
-2. **Scripture reading**: Systematic through Bible or by topic
-3. **Meditation**: Reflect on God's character and promises
-4. **Self-examination**: How does text reveal sin or growth areas?
-5. **Prayer response**: Adoration, confession, thanksgiving, supplication
+==**Richard Baxter's Approach**:==
+1. **==Prayer== for illumination**: Ask Holy Spirit for understanding
+2. **Scripture ==reading==**: Systematic through Bible or by topic
+3. **==Meditation==**: Reflect on God's character and promises
+4. **==Self-examination==**: How does text reveal sin or growth areas?
+5. **Prayer ==response==**: Adoration, confession, thanksgiving, supplication
 
 #### Evening Reflection
-**Jonathan Edwards' Practice**:
-- **Review the day**: How did I apply morning's Scripture?
-- **Examine heart motives**: What idols competed with God today?
-- **Confess specific sins**: Be honest about failures and weaknesses
-- **Thank God for grace**: Focus on undeserved mercy and love
+**==Jonathan Edwards==' Practice**:
+- **==Review== the day**: How did I apply morning's Scripture?
+- **Examine ==heart== motives**: What idols competed with God today?
+- **Confess specific ==sins==**: Be honest about failures and weaknesses
+- **==Thank== God for grace**: Focus on undeserved mercy and love
 
 ## 📚 Reformed Study Resources
 
 ### Essential Reformed Commentaries
-**Calvin's Commentaries**: Foundational Reformed exegesis
-**Matthew Henry**: Practical application with Reformed theology
-**John MacArthur**: Contemporary expository approach
-**R.C. Sproul**: Clear theological explanation
-**Martyn Lloyd-Jones**: Romans series, Sermon on Mount
+**==Calvin=='s Commentaries**: Foundational Reformed exegesis
+**==Matthew== ==Henry==**: Practical application with Reformed theology
+**John ==MacArthur==**: Contemporary expository approach
+**R.C. ==Sproul==**: Clear theological explanation
+**==Martyn Lloyd-Jones==**: Romans series, Sermon on Mount
 
 ### Systematic Theology Resources
-**Wayne Grudem**: "Systematic Theology" - comprehensive and accessible
-**Louis Berkhof**: "Systematic Theology" - classic Reformed textbook  
-**John Frame**: "Systematic Theology" - contemporary Reformed approach
-**Herman Bavinck**: "Reformed Dogmatics" - comprehensive multi-volume set
+**Wayne ==Grudem==**: "Systematic Theology" - comprehensive and accessible
+**Louis ==Berkhof==**: "Systematic Theology" - classic Reformed textbook  
+**==John Frame==**: "Systematic Theology" - contemporary Reformed approach
+**Herman ==Bavinck==**: "Reformed Dogmatics" - comprehensive multi-volume set
 
 ### Study Tools for Reformed Approach
-**Software**: Logos Bible Software with Reformed library
-**Concordances**: Strong's Exhaustive Concordance
+**Software**: ==Logos== Bible Software with Reformed library
+**Concordances**: ==Strong=='s Exhaustive Concordance
 **Lexicons**: BDAG (Greek), HALOT (Hebrew)
 **Cross-references**: Treasury of Scripture Knowledge
 

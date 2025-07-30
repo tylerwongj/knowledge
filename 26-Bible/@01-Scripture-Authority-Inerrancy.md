@@ -8,7 +8,7 @@
 
 ## 📖 Reformed Doctrine of Scripture
 
-### Sola Scriptura - Scripture Alone
+### ==Sola Scriptura - Scripture Alone==
 **Definition**: Scripture is the only infallible rule of faith and practice
 
 **R.C. Sproul**: "The Bible is not man's word about God, but God's word about man. It is the supreme and final authority for all doctrine and life."
@@ -20,35 +20,35 @@
 - **Sufficient**: Contains all necessary truth for salvation and godliness
 
 **Biblical Foundation**:
-- **2 Timothy 3:16-17**: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness"
+- ==**2 Timothy 3:16-17**==: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness"
 - **Isaiah 8:20**: "To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn"
 
-### Verbal Plenary Inspiration
-**John MacArthur**: "Every word of Scripture in the original manuscripts was inspired by God. This means that the very words, not just the thoughts or concepts, are God-breathed."
+### ==Verbal Plenary Inspiration==
+**John MacArthur**: "==Every word== of Scripture in the original manuscripts was ==inspired== by God. This means that the very words, not just the thoughts or concepts, are God-breathed."
 
 **Key Components**:
 - **Verbal**: The very words were inspired, not just concepts
-- **Plenary**: All of Scripture is equally inspired
+- ==**Plenary**: All of Scripture is equally inspired==
 - **Original autographs**: Inerrancy applies to original manuscripts
 - **Divine-human authorship**: God used human authors without error
 
 **Biblical Support**:
-- **2 Peter 1:20-21**: "No prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit"
-- **1 Corinthians 2:13**: "We impart this in words not taught by human wisdom but taught by the Spirit"
+- ==**2 Peter 1:==20-21**: "No prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, ==but men spoke from God as they were carried along by the Holy Spirit"==
+- ==**1 Corinthians 2==:13**: "We impart this in words ==not taught by human wisdom but taught by the Spirit"==
 
-### Inerrancy and Infallibility
+### ==Inerrancy and Infallibility==
 **Westminster Confession of Faith (1.4)**: "The authority of the Holy Scripture, for which it ought to be believed, and obeyed, dependeth not upon the testimony of any man, or Church; but wholly upon God (who is truth itself) the author thereof: and therefore it is to be received, because it is the Word of God."
 
 **Definitions**:
-- **Inerrancy**: Scripture is without error in all it affirms
-- **Infallibility**: Scripture cannot lead us astray in matters of faith and practice
-- **Authority**: Scripture has the right to command belief and obedience
+- ==**Inerrancy==**: Scripture is without error in all it affirms
+- **==Infallibility==**: Scripture cannot lead us astray in matters of faith and practice
+- **==Authority==**: Scripture has the right to command belief and obedience
 
 **R.C. Sproul**: "If the Bible errs in telling us about the physical world, why should we trust it when it tells us about the spiritual world?"
 
 ## 🏛️ Reformed Hermeneutical Principles
 
-### Scripture Interprets Scripture
+### ==Scripture Interprets Scripture==
 **Principle**: Use clear biblical passages to interpret difficult or unclear passages
 
 **John Calvin**: "Scripture is its own interpreter. Nothing can be expected beyond what the Scripture teaches."
@@ -56,19 +56,19 @@
 **Application**:
 - **Analogy of faith**: Interpret unclear passages by clear passages
 - **Progressive revelation**: Later revelation clarifies earlier revelation
-- **Systematic theology**: Build doctrine from multiple biblical texts
-- **Context determines meaning**: Historical, literary, and canonical context
+- **==Systematic== theology**: Build doctrine from multiple biblical texts
+- **==Context== determines meaning**: Historical, literary, and canonical context
 
-### Grammatical-Historical Method
+### ==Grammatical-Historical Method==
 **R.C. Sproul**: "The task of the interpreter is to determine what the original author intended to communicate to his original audience."
 
 **Key Elements**:
-- **Original languages**: Hebrew, Aramaic, and Greek are authoritative
-- **Historical context**: When, where, and why it was written
-- **Literary genre**: Poetry, narrative, prophecy, epistle, etc.
-- **Cultural background**: Understanding ancient Near Eastern context
+- **Original ==languages==**: Hebrew, Aramaic, and Greek are authoritative
+- **==Historical== ==context==**: When, where, and why it was written
+- **Literary ==genre==**: Poetry, narrative, prophecy, epistle, etc.
+- **==Cultural== background**: Understanding ancient Near Eastern context
 
-### Christ-Centered Interpretation
+### ==Christ-Centered Interpretation==
 **Luke 24:27**: "And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself."
 
 **John Piper**: "The Bible is one book. It is the story of God's glory in the salvation of sinners through the substitutionary sacrifice and triumphant resurrection of Jesus Christ."
@@ -80,8 +80,8 @@
 
 ## 📚 Reformed Theologians on Biblical Authority
 
-### John MacArthur's Contribution
-**"How to Study the Bible"** and **MacArthur Study Bible**:
+### ==John== ==MacArthur=='s Contribution
+==**"How to Study the Bible"**== and **MacArthur Study Bible**:
 - Emphasis on expository preaching method
 - Careful attention to original languages and context
 - Application of sound hermeneutical principles
@@ -91,10 +91,10 @@
 - "The Bible interprets itself. Scripture is the best commentary on Scripture."
 - "Expository preaching is the proclamation of the truth of God as mediated through the preacher."
 
-### R.C. Sproul's Apologetic Defense
+### ==R.C. Sproul=='s Apologetic Defense
 **"Scripture Alone"** and **"Knowing Scripture"**:
 - Philosophical defense of biblical authority
-- Historical development of canon formation
+- ==Historical development of canon== formation
 - Response to higher critical challenges
 - Practical application of hermeneutical principles
 
@@ -102,9 +102,9 @@
 - "The Bible is not a human book with a divine element; it is a divine book with a human element."
 - "If we do not have an infallible Scripture, we do not have an authoritative word from God."
 
-### John Piper's Supernatural Reading
+### ==John== ==Piper=='s Supernatural Reading
 **"Reading the Bible Supernaturally"**:
-- Role of Holy Spirit in illumination
+- ==Role of Holy Spirit in illumination==
 - Natural and supernatural elements in Bible reading
 - Seeing and savoring God's glory through Scripture
 - Prayer and humility in Bible study
@@ -124,23 +124,23 @@
 - **Redaction Criticism**: Editorial process assumptions
 - **Reformed Response**: Archaeological and textual evidence supports traditional authorship
 
-**Postmodern Challenges**:
-- **Relativistic interpretation**: "That's just your interpretation"
-- **Cultural conditioning**: "Bible reflects ancient prejudices"
+==**Postmodern Challenges**:==
+- **==Relativistic== interpretation**: "That's just your interpretation"
+- ==**Cultural conditioning**: "Bible reflects ancient prejudices"==
 - **Reformed Response**: Objective truth and clear communication
 
-### Apologetic Strategies
+### ==Apologetic== Strategies
 **Internal Evidence**:
-- **Unity of Scripture**: Consistent message across 66 books and 1,500 years
-- **Fulfilled prophecy**: Specific predictions accurately fulfilled
-- **Scientific accuracy**: No genuine contradictions with established science
-- **Historical reliability**: Archaeological confirmation of biblical accounts
+- **Unity of Scripture**: ==Consistent message across 66 books and 1,500 years==
+- ==**Fulfilled prophecy==**: Specific predictions accurately fulfilled
+- **==Scientific== ==accuracy==**: No genuine contradictions with established science
+- **==Historical== ==reliability==**: Archaeological confirmation of biblical accounts
 
 **External Evidence**:
-- **Manuscript evidence**: Superior to all other ancient documents
-- **Early dating**: Close to events described
-- **Eyewitness testimony**: Authors were present or interviewed witnesses
-- **Canonical recognition**: Early church acknowledged divine authorship
+- ==**Manuscript evidence**: Superior to all other ancient documents==
+- ==**Early dating==**: Close to events described
+- **==Eyewitness== ==testimony==**: Authors were present or interviewed witnesses
+- **==Canonical== ==recognition==**: Early church acknowledged divine authorship
 
 ### John MacArthur on Inerrancy Debates
 **"The Battle for the Beginning"** and seminary positions:
@@ -184,19 +184,19 @@
 - **Weekly**: Review and memorization of key texts
 - **Monthly**: Theological reading to deepen understanding
 
-### Personal Study Method
-**Step 1: Observation** - What does the text say?
+### ==Personal== ==Study== Method
+**Step 1: ==Observation==** - What does the text say?
 - Read passage multiple times in different translations
 - Note key words, repeated phrases, literary structure
 - Identify main characters, actions, and outcomes
 
-**Step 2: Interpretation** - What does the text mean?
+**Step 2: ==Interpretation==** - What does the text mean?
 - Research historical and cultural context
 - Study original language words and grammar
 - Compare with other Scripture passages
 - Consult trusted Reformed commentaries
 
-**Step 3: Application** - How does this apply to my life?
+**Step 3: ==Application==** - How does this apply to my life?
 - Identify timeless principles from cultural specifics
 - Connect to gospel and Christ's work
 - Consider personal obedience and growth areas
