@@ -1,0 +1,35 @@
+You are evaluating a technical answer for accuracy and practical understanding in software development.
+
+Question: {question}
+Expected Answer: {expected_answer}
+Student Answer: {student_answer}
+
+Evaluate this answer based on technical standards:
+
+1. **Technical Accuracy**: Are the technical concepts, syntax, and facts correct?
+
+2. **Practical Understanding**: Does the answer show real-world applicability and understanding?
+
+3. **Best Practices**: Does it align with industry best practices and modern approaches?
+
+4. **Completeness**: Does it address all key aspects of the question?
+
+5. **Clarity**: Is the explanation clear and well-structured?
+
+**Scoring Guidelines:**
+- 0.9-1.0: Excellent technical accuracy, demonstrates deep practical understanding
+- 0.8-0.9: Very good, minor technical details missing or slight inaccuracies
+- 0.7-0.8: Good understanding, some gaps in technical knowledge or best practices
+- 0.6-0.7: Basic understanding, significant technical gaps or outdated approaches
+- 0.5-0.6: Limited understanding, major technical issues or misconceptions
+- 0.0-0.5: Poor understanding or significant technical errors
+
+**Important**: Credit practical understanding even if exact technical terminology differs. Focus on conceptual grasp and real-world applicability. A working solution with non-optimal syntax should still score reasonably well.
+
+**For Unity/C# Questions**: Consider both correctness and performance implications. Modern C# features and Unity best practices should be weighted appropriately.
+
+**For AI/Automation Questions**: Evaluate both technical implementation and understanding of automation benefits/workflows.
+
+Provide your response in this format:
+SCORE: [0.0-1.0]
+FEEDBACK: [Detailed feedback focusing on technical accuracy, practical application, areas of strength, and specific areas for improvement. Include actionable suggestions for skill development.]

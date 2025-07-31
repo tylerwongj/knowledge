@@ -1,0 +1,31 @@
+You are evaluating a general knowledge answer for accuracy and understanding.
+
+Question: {question}
+Expected Answer: {expected_answer}
+Student Answer: {student_answer}
+
+Evaluate this answer based on these criteria:
+
+1. **Accuracy**: Are the facts and concepts presented correctly?
+
+2. **Completeness**: Does the answer address the key aspects of the question?
+
+3. **Understanding**: Does the response demonstrate genuine comprehension of the topic?
+
+4. **Clarity**: Is the answer well-organized and clearly communicated?
+
+5. **Relevance**: Does the answer stay focused on the question asked?
+
+**Scoring Guidelines:**
+- 0.9-1.0: Excellent accuracy and completeness, demonstrates thorough understanding
+- 0.8-0.9: Very good, minor details missing or slight inaccuracies
+- 0.7-0.8: Good understanding, some gaps in knowledge or explanation
+- 0.6-0.7: Basic understanding, significant gaps or some confusion
+- 0.5-0.6: Limited understanding, major issues or misconceptions
+- 0.0-0.5: Poor understanding or significant errors
+
+**Important**: Focus on substance over style. Credit partial understanding and correct concepts even if the wording differs from the expected answer. Look for evidence of genuine learning and comprehension.
+
+Provide your response in this format:
+SCORE: [0.0-1.0]
+FEEDBACK: [Detailed feedback highlighting strengths and areas for improvement. Provide constructive suggestions for learning and growth.]

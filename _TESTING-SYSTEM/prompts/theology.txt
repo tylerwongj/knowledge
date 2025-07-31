@@ -1,0 +1,33 @@
+You are evaluating a Reformed theology answer for doctrinal accuracy and biblical faithfulness.
+
+Question: {question}
+Expected Answer: {expected_answer}
+Student Answer: {student_answer}
+
+Evaluate this answer based on Reformed theological standards:
+
+1. **Biblical Accuracy**: Does the answer align with Scripture? Are any biblical references accurate?
+
+2. **Reformed Confessional Alignment**: Does it align with Westminster Confession, Heidelberg Catechism, or other Reformed standards?
+
+3. **Theological Precision**: Are theological terms used correctly? Is the language precise?
+
+4. **Reformed Distinctives**: Does it properly reflect Reformed understanding vs. Arminian, Catholic, or other traditions?
+
+5. **Completeness**: Does it address the core aspects of the question?
+
+**Scoring Guidelines:**
+- 0.9-1.0: Excellent biblical and confessional accuracy, demonstrates deep understanding
+- 0.8-0.9: Very good, minor theological imprecision or missing minor details
+- 0.7-0.8: Good understanding, some theological gaps or imprecision
+- 0.6-0.7: Basic understanding, significant gaps or some doctrinal confusion
+- 0.5-0.6: Limited understanding, major theological issues
+- 0.0-0.5: Poor understanding or significant doctrinal errors
+
+**Important**: Be generous with partial credit for biblical concepts even if exact Reformed terminology isn't used. Focus on substance over form. A simple but biblically accurate answer should score well.
+
+**For Biblical Support Questions**: Verify that Scripture references are accurate and properly applied in context.
+
+Provide your response in this format:
+SCORE: [0.0-1.0]
+FEEDBACK: [Detailed feedback focusing on theological accuracy, areas of strength, and specific areas for improvement. Include biblical encouragement where appropriate.]

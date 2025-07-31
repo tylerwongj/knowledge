@@ -1,0 +1,57 @@
+# Configuration for AI-Powered Knowledge Testing System
+
+# Question Generation Settings
+question_types:
+  definition: 0.4      # 40% definition questions
+  comparison: 0.2      # 20% comparison questions  
+  application: 0.2     # 20% application questions
+  biblical_support: 0.2 # 20% biblical/technical support questions
+
+difficulty_distribution:
+  easy: 0.5           # 50% easy questions
+  medium: 0.3         # 30% medium questions
+  hard: 0.2           # 20% hard questions
+
+keywords_per_question: 3  # Number of keywords to extract per question
+
+# Answer Evaluation Settings
+evaluation:
+  keyword_threshold: 0.2        # Lower threshold - use keyword scoring more often
+  local_llm_model: "llama3.2:1b"  # Use the model you already have
+  openai_model: "gpt-4o-mini"   # OpenAI model for complex evaluations
+  max_local_llm_time: 30        # Max seconds to wait for local LLM
+  use_api_fallback: true        # Use OpenAI API if local LLM fails
+
+# Scoring Configuration
+scoring:
+  keyword_weight: 0.3           # Weight of keyword matching in final score
+  semantic_weight: 0.7          # Weight of semantic understanding
+  minimum_passing_score: 0.6    # Minimum score to consider "passed"
+
+# System Settings
+prompts_dir: "prompts"          # Directory containing evaluation prompts
+test_results_dir: "test-results" # Directory to save test results
+
+# Category-Specific Settings
+categories:
+  "Reformed Theology":
+    emphasis: ["biblical_accuracy", "doctrinal_precision", "reformed_distinctives"]
+    strict_evaluation: true     # Be more strict on theological accuracy
+    
+  "Unity Development":
+    emphasis: ["practical_application", "technical_accuracy", "best_practices"]
+    code_examples_preferred: true
+    
+  "C# Programming":
+    emphasis: ["syntax_correctness", "performance", "maintainability"]
+    code_examples_preferred: true
+    
+  "AI/LLM Automation":
+    emphasis: ["practical_implementation", "prompt_engineering", "automation_benefits"]
+    innovation_bonus: true      # Extra credit for creative solutions
+
+# Performance Optimization
+performance:
+  cache_evaluations: true       # Cache evaluation results to avoid re-evaluation
+  parallel_generation: false   # Generate questions in parallel (experimental)
+  batch_size: 5                # Number of questions to process at once
